@@ -15,7 +15,7 @@
  */
 define('USER', 'user'); // 登录用户
 define('PASS', 'pw123456'); // 登录密码
-define('COOKIENAME', 'wrmfw'); // cookie名
+define('COOKIENAME', 'wrmfw'); // cookie名 (“为人民服务”拼音)
 
 Dog::run();
 
